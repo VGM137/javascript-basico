@@ -16,7 +16,7 @@ var nuevaLongitud = frutas.unshift("Uvas");
 //Método .shift elimina el primer elemento del array
 var borrarFruta = frutas.shift("Uvas")
 
-//Método .indexOf Arrija la posicion en la que se encuentra el elemento que busquemos
+//Método .indexOf Arroja la posicion en la que se encuentra el elemento que busquemos
 var posicion = frutas.indexOf("Cereza")
 
 // También se pueden asignar o añadir datos con string keys
